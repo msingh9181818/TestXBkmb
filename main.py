@@ -34,7 +34,7 @@ VERSION = "v5.3"
 MAX_CONCURRENT = 1000
 MAX_COUNT = 1000
 
-FORCE_JOIN_CHANNELS = ["@tchbsterarmy", "@errorarmy"]
+FORCE_JOIN_CHANNELS = ["@tchbsterarmy", "@errorarmy1"]
 
 PROTECTION_PRICE = "10 Rs"
 PAYMENT_UPI = "8707210511@fam"
