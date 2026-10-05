@@ -36,7 +36,7 @@ OWNER_ID  = 8679787798
 DATA_FILE = "bomber_data.json"
 VERSION   = "v6.2"
 
-FORCE_JOIN_CHANNELS = ["@tchbsterarmy", "@errorarmy"]
+FORCE_JOIN_CHANNELS = ["@tchbsterarmy", "@errorarmy1"]
 
 PROTECTION_PRICE = 10
 PAYMENT_UPI      = "8707210511@fam"
