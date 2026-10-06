@@ -41,7 +41,7 @@ logging.getLogger("aiogram.event").setLevel(logging.WARNING)
 # ════════════════════════════════════════════════════════════════════
 # CONFIG
 # ════════════════════════════════════════════════════════════════════
-BOT_TOKEN = "8231418860:AAFugFDufNiWPOKQK5Gqshtpy6y4DpVJY1Y"
+BOT_TOKEN = "8941859116:AAF1S02-DNy-6QORLFzwXLgCCAZlynsEDxA"
 OWNER_ID = 8679787798
 DATA_FILE = "bomber_data.json"
 BACKUP_DIR = "backups"
@@ -91,7 +91,7 @@ CUSTOM_EMOJIS: Dict[str, tuple] = {
     "my_orders":    ("👀", "5210956306952758910"),
     "share":        ("🫂", "6291721892835365542"),
     "join_updates": ("👀", "6298788673110410889"),
-    "ig_button":    ("📱", "5319160079465857105"),
+    "ig_button":    ("🚨", "5395695537687123235"),
     "tg_button":    ("📱", "5330237710655306682"),
     "verify":       ("✅", "6084779072750097974"),
     "earn_credit":  ("➗", "5321506952675597305"),
